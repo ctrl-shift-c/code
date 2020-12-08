@@ -24,11 +24,13 @@
 CC=gcc
 INCLUDE_PATH=../include
 LIBRARY_PATH=../lib
-LIBRARY_NAME=pthread
-CFLAGS=-I$(INCLUDE_PATH) -g -Wall -c
+LIBRARY_NAME_1=pthread
+LIBRARY_NAME_2=g
+CFLAGS=-I$(INCLUDE_PATH) -Wall -c
 CPPFAGS=-E -D -01
-LDFLAGS=-L$(LIBRARY_PATH) -l$(LIBRARY_NAME)
-TARGET=app
+LIBRARY_NAME=-l$(LIBRARY_NAME_1) 
+LDFLAGS=-L$(LIBRARY_PATH) $(LIBRARY_NAME)
+TARGET=server
 SRCFIFENAME=$(wildcard *.c)
 DESFIFENAME=$(patsubst %.c,%.o,$(SRCFIFENAME))
 CLEAN=clean
@@ -36,10 +38,10 @@ RM=sudo rm -rf
 INSTALL_PATH=/usr/bin/
 
 $(TARGET):$(DESFIFENAME)
-	$(CC) $^ -o $@
+	$(CC) $^ $(LDFLAGS) -o $@
 
 %.o:%.c
-	$(CC) $(CFLAGS) $<
+	$(CC) $(CFLAGS) $(LDFLAGS)  $<
 
 output:
 	@echo "SRCFILE=$(SRCFIFENAME)"
