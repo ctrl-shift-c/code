@@ -3,7 +3,6 @@
 
 void *BUSINESS_B(void *arg)
 {
-	struct epoll_event temp;
 	int sockfd = *(int *)arg;
 	int recvlen;
 	int j;

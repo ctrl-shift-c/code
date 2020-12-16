@@ -122,7 +122,7 @@ ssize_t RECVFROM(int sockfd, void *buf, size_t len, int flags,struct sockaddr *s
 
 int NET_INIT(int flags,int type , const char * ip , int port) // flags(初始化应用端 0 ser , 1 client)  type (0 tcp 1 udp)
 {
-		struct sockaddr_in serveraddr,clientaddr;
+		struct sockaddr_in serveraddr;
 		int sockfd;
 		if(flags==0 && type==0){
 				bzero(&serveraddr,sizeof(serveraddr));

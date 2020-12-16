@@ -25,6 +25,16 @@ void *jobs(void *arg)
 	return NULL;
 }
 
+void RedirectStdio()
+{
+	int fd;
+	if(fd = open("errorfile.log", O_RDWR|O_CREAT, 0664) <0 )
+	{
+		perror("open failed..");
+		exit(0);
+	}
+}
+
 void create_daemon_process(void)
 {
 	pid_t pid;
@@ -39,6 +49,7 @@ void create_daemon_process(void)
 		chdir("../");
 		close(STDIN_FILENO);
 		close(STDOUT_FILENO);
+		
 		umask(0);
 		jobs(NULL);
 	}
