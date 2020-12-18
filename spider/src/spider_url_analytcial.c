@@ -66,6 +66,6 @@ int spider_url_analytical(url_t *u)
 		return -1;
 	}
 	inet_ntop(AF_INET, ent->h_addr_list[0], u->ip, 16);
-	printf("%s %s %s %s\n", u->domain, u->path, u->filename, u->ip);
-	return 1;
+	printf(" {[domain]\t=\t[%s]}\n {[port]\t=\t[%s]}\n {[filename]\t=\t[%s]}\n {[ip]\t\t=\t[%s]}\n", u->domain, u->path, u->filename, u->ip);
+	return 0;
 }
