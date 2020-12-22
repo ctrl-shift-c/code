@@ -1,0 +1,23 @@
+.PHANY:OUTPUT CLEAN
+
+TARGET=pthread_copy
+CC=gcc
+INCLUDE_PATH=../include
+LIBRARY_PATH=../lib
+LIBRARY_NAME_1=g
+LIBRARY_NAME_2=pthread
+LIBRARY_NAME=-l$(LIBRARY_NAME_2)
+LDFAGS=-L$(LIBRARY_PATH) $(LIBRARY_NAME)
+CFLAGS=-I$(INCLUDE_PATH) -Wall -c
+SRCFILENAME=$(wildcard *.c)
+DESFILENAME=$(patsubst %.c,%.o,$(SRCFILENAME))
+
+$(TARGET):$(DESFILENAME)
+	$(CC) $^ $(LDFAGS) -o $@
+%.o:%.c
+	$(CC) $(CFLAGS) $<
+OUTPUT:
+	@echo "$(SRCFILENAME)"
+	@echo "$(DESFILENAME)"
+CLEAN:
+	rm $(DESFILENAME) $(TARGET)

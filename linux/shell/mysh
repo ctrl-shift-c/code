@@ -1,0 +1,130 @@
+#!/usr/bin/bash
+
+#echo "用户当前位置:"
+#pwd
+#echo "当前系统时间:"
+#date
+#STR=asfsf
+#echo ${STR}sad
+
+#LS=`ls -l`
+#LSS=ls l
+#echo ${LS}
+#echo $(LSS)
+
+
+#ARRAY=(0 1 2 3 4 5 6)
+#echo ${ARRAY[*]:1:2}
+#FILENAME=($(ls))
+#echo "${FILENAME[*]}"
+
+
+#NUM1=100
+#NUM2=200
+#SUM=$(expr $(expr 10 + ${NUM1}) \* ${NUM2})
+#echo ${SUM}
+
+#read VAR
+#case ${VAR} in
+#	"1")
+#		echo "1"
+#		;;
+#	"2")
+#		echo "2"
+#		;;
+#	"3")
+#		echo "3"
+#		;;
+#	*)
+#		echo "default"
+#		;;
+#esac
+
+
+#read VAR
+#case ${VAR} in
+#    "1")
+#        echo "1"
+#        ;;
+#    "2")
+#        echo "2"
+#        ;;
+#    "3")
+#        echo "3"
+#        ;;
+#    *)
+#        echo "default"
+#        ;;
+#esac
+
+#array=($(ls))
+#for VAR in ${array[*]}
+#do
+#	echo "${VAR}"
+#done
+
+
+#for((i=0;i<100;i++))
+#{
+#	if test -z ${array[${i}]}
+#		then
+#		     break
+#	else
+#		echo "${array[${i}]}"
+#	fi
+#}
+#read temp
+#while test -z ${temp}
+#do
+#	echo "xx"
+#done
+#declare -i A=-1+1
+#echo ${A}
+#until test -z ${temp}
+#do
+#	echo "xx"
+#done
+#ARRAY=(阿 不 从 的 俄)
+#select VAR in ${ARRAY[*]}
+#do
+#	case ${VAR} in
+#		阿)
+#			echo "a"
+#			;;
+#		不)
+#			echo "b"
+#			;;
+#		从)
+#			echo "c"
+#			;;
+#		的)
+#			echo "d"
+#			;;
+#		俄)
+#			echo "e"
+#			;;
+#		*)
+#			echo "default"
+#			;;
+#	esac
+#done
+FUN()
+{
+	 #局部变量
+	 local NUM1=20;
+	 #全局变量
+	 NUM2=30;
+	 SUM=$(expr ${NUM1} \* ${NUM2})
+	 SUM1=$(expr $1 \* $2)
+	 read NUM3
+	 read NUM4
+	 SUM2=$(expr ${NUM3} + ${NUM4})
+	 echo ${SUM}
+	 echo ${SUM1}
+	 echo ${SUM2}
+}
+#位置变量必须传参，其余不需要
+#函数的第一次输出可以传输到一个变量里
+VAR=`FUN $1 $2`
+echo "FUM=${VAR[*]}"
+

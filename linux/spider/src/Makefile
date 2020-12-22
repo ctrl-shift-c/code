@@ -1,0 +1,22 @@
+.PHONY: OUTPUT CLEAN
+cc=gcc
+TARGET=spider
+INCLUDE_PATH=../include
+LIBRARY_NAME_1=g
+LIBRARY_NAME_2=pthread
+LIBRARY_NAME=-l$(LIBRARY_NAME_1)
+CLFAGS=-I$(INCLUDE_PATH) -Wall -c
+LDFLAGS=$(LIBRARY_NAME)
+SRCFIFENAME=$(wildcard *.c)
+DESFIFENAME=$(patsubst %.c,%.o,$(SRCFIFENAME))
+
+$(TARGET):$(DESFIFENAME)
+	$(CC) $^ $(LDFLAGS) -o $@
+%.o:%.c
+	$(CC) $(CLFAGS) $<
+
+OUTPUT:
+	@echo $(SRCFIFENAME)
+	@echo $(DESFIFENAME)
+CLEAN:
+	rm $(DESFIFENAME) $(TARGET)

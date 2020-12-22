@@ -1,0 +1,27 @@
+#!/usr/bin/bash
+#该脚本用于测试文件，识别该文件是否有效，识别文件类型
+#判断用户是否输入
+if test -z $1
+	then
+		echo "please enter file name!"
+else
+#文件是否存在
+	if test -e $1
+		then
+			echo "$1 is OK."
+		if test -f $1
+			then
+				echo "$1 is common files."
+		elif test -d $1
+			then
+				echo "$1 is directroy files!"
+		elif test -b $1 -o -c $1
+			then
+				echo "$1 is device files!"
+		else
+			echo "file type unknow!"
+		fi
+	else
+		echo "$1 is not exist!"
+	fi
+fi

@@ -1,0 +1,5 @@
+NO        USER                          USER_ID   HOME_PATH                     TTY       
+1  nobody                        65534     65534     /usr/sbin/nologin
+2  ubuntu                        1000      1000      /usr/bin/zsh
+3  systemd-coredump              999       999       /usr/sbin/nologin
+exit..
