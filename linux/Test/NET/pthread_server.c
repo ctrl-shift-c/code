@@ -20,11 +20,11 @@ void sigaction_jobs(int arg)
 
 void* pthread_jobs(void *arg)
 {
-	
+	/*
 	sigset_t set;
 	sigemptyset(&set);
 	sigprocmask(SIG_SETMASK, &set, NULL);
-	
+	*/
 	int serclientfd = (long int)arg;
 	while(1)
 	{

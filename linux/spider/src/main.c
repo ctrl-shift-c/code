@@ -2,6 +2,7 @@
 
 int main(int args, char **argv)
 {
+	/*
 	if(args != 2 || strlen(argv[1])<=0)
 	{
 		printf("main args numner..\n");
@@ -25,8 +26,22 @@ int main(int args, char **argv)
 	char reqhead[4096];
 	spider_create_requesthead(reqhead, &url);
 	printf("[4] requesthead create successly...\n");
-	spider_response_download(webfd, reqhead, &url);
+
+	ssl_t *ssl = NULL;
+	printf("%d\n", url.http_type);
+	if(url.http_type == 1)
+		ssl = spider_openssl_create(webfd);
+	spider_response_download(webfd, reqhead, &url, ssl);
 	printf("[6] download success\n");
-	close(webfd);
+	*/
+	url_t url;
+	container_t *contain_w;
+	container_t *contain_y;
+	contain_w = spider_container_create(200);
+	contain_y = spider_container_create(200);
+	strcpy(url.filename, "100571?fr=aladdin");
+//	spider_analytical_moreurl(&url, contain_w, contain_y);
+	spider_analytical_resource(&url);
+//	close(webfd);
 	return 0;
 }

@@ -1,0 +1,2735 @@
+34e
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+adsaaf iv><a href="/item/秒懂本尊答" target="_blank">秒懂本尊答</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="服务器是计算机的一种，它比普通计算机运行更快、负载更高、价格更贵。服务器在网络中为其它客户机（如PC机、智能手机、ATM等终端甚至是火车系统等大型设备）提供计算或者应用服务。服务器具有高速的CPU运算能力、长时间的可靠运行、强大的I/O外部数据吞吐能力以及更好的扩展性。根据服务器所提供的服务，一般来说服务器都具备承担响应服务请求、承担服务、保障服务的能力。服务器作为电子设备，其内部的结构十分的复杂，但与普通的计算机内部结构相差不大，如：cpu2d40、硬盘、内存，系统、系统总线等。...">
+<title>服务器_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="服务器 伺服器 服务器分类 服务器特性 服务器外形 服务器安全问题 服务器虚拟化技术 服务器维护保养">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2020-10-28 14:37:03" />
+<style>
+        . {
+            display: none !important;
+        }
+    </style>
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+
+      window.console = window.console || {};
+      var f = ['log', 'info', 'warning', 'error', 'clear'];
+      var l = f.length;
+      while(l--) {
+        window.console[f[l]] = function () {};
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_e3d67a3.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_6ec4028.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_9f95c7c.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_1766b4c.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_ce843cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_47f1933.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/professional/professional_03c255a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/sideAuth/sideAuth_c13d91a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma neweditor normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="服务器" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt>秒懂百科</dt>
+<dd>
+<div><a href="https://child.baidu.com/" target="_blank">懂啦</a></div>
+<div><a href="/item/秒懂本尊答" target="_blank">秒懂本尊答</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt>特色百科</dt>
+<dd>
+<div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+<div><a href="/art" target="_blank">艺术百科</a></div>
+<div><a href="/science" target="_blank">科学百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt>用户</dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/item/百科热词团队" target="_blank">热词团</a></div>
+<div><a href="/campus" target="_blank">百科校园</a></div>
+<div><a href="https://baike.baidu.com/talent/home/index" target="_blank">分类达人</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt>权威合作</dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="right-list">
+<span class="item appdownload" nslog-type="21040001"><a href="/wapui/subpage/baikeappdownload" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_mobile-phone"></em>下载百科APP</a></span>
+<span class="item usercenter"><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+<div class="J-wgt-seconds-know-container">
+<div id="lemmaWgt-secondsKnow" class="lemmaWgt-secondsKnow-pageBg lemmaWgt-secondsKnow-isScience-pageBg">
+<div class="layout">
+<ul class="lemmaWgt-secondsKnow-gallery">
+<li class="lemmaWgt-secondsKnow-gallery-li" data-mediaId="mda-Og5pvPA8lgXMtZ6Q" data-secondId="19451434">
+<a href="javascript:;" nslog-type="10002502">
+<img src="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08fa527538a056ee3d6d55fbdabb?x-bce-process=image/resize,m_fill,w_280,h_150,align_0,limit_0" />
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="一分钟了解服务器">
+<span class="video-title-content">一分钟了解服务器</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_ey
+5a8
+e"></em></span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="bgMask"></div>
+</div>
+<div class="after-science-page-background" style="position:relative;margin-top:-260px;"></div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<span class="posterFlag expert-icon "></span>
+<div class="top-tool ">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-i
+16a0
+con top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >服务器</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="authorityListPrompt">
+<div class="main-content-zj">
+本词条由<a href="https://baike.baidu.com/science" target="_blank" class="nslog:7175">“科普中国”科学百科词条编写与应用工作项目</a>
+审核
+。</div>
+</div>
+<div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">服务器是计算机的一种，它比普通<a target=_blank href="/item/%E8%AE%A1%E7%AE%97%E6%9C%BA/140338" data-lemmaid="140338">计算机</a>运行更快、负载更高、价格更贵。服务器在网络中为其它客户机（如PC机、智能手机、ATM等终端甚至是火车系统等大型设备）提供计算或者应用服务。服务器具有高速的CPU运算能力、长时间的可靠运行、强大的I/O外部数据吞吐能力以及更好的扩展性。根据服务器所提供的服务，一般来说服务器都具备承担响应服务请求、承担服务、保障服务的能力。服务器作为电子设备，其内部的结构十分的复杂，但与普通的计算机内部结构相差不大，如：<a target=_blank href="/item/cpu/120556" data-lemmaid="120556">cpu</a>、<a target=_blank href="/item/%E7%A1%AC%E7%9B%98/159825" data-lemmaid="159825">硬盘</a>、<a target=_blank href="/item/%E5%86%85%E5%AD%98/103614" data-lemmaid="103614">内存</a>，系统、<a target=_blank href="/item/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF/1190546" data-lemmaid="1190546">系统总线</a>等。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_899">&nbsp;</a>
+</div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn">
+</div><div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+服务器
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+server
+</dd>
+<dt class="basicInfo-item name">别&nbsp;&nbsp;&nbsp;&nbsp;名</dt>
+<dd class="basicInfo-item value">
+伺服器
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">分&nbsp;&nbsp;&nbsp;&nbsp;类</dt>
+<dd class="basicInfo-item value">
+文件、数据库及应用程序服务器
+</dd>
+<dt class="basicInfo-item name">构&nbsp;&nbsp;&nbsp;&nbsp;成</dt>
+<dd class="basicInfo-item value">
+cpu、芯片组、内存、磁盘系统等
+</dd>
+<dt class="basicInfo-item name">特&nbsp;&nbsp;&nbsp;&nbsp;性</dt>
+<dd class="basicInfo-item value">
+可扩展、易使用、可用、易管理
+</dd>
+<dt class="basicInfo-item name">外&nbsp;&nbsp;&nbsp;&nbsp;形</dt>
+<dd class="basicInfo-item value">
+刀片式、塔式、机柜式等
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">分类</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">特性</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">外形</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">机架式</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">刀片</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">塔式</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">机柜式</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">安全问题</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">虚拟化技术</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">简介</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">优点</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_3">关键技术</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class
+16a0
+="text"><a href="#5_4">风险</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">维护保养</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list ">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub899_1" class="lemma-anchor " ></a>
+<a name="分类" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>分类</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">从不同角度观察服务器，可以对服务器有不同的分类方法，下面我们从不同的角度讨论一下服务器的分类。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para">1、根据体系结构不同，服务器可以分成两大重要的类别：IA架构服务器和RISC架构服务器。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571/0/34fae6cd7b899e51210da74d4da7d933c9950de3?fr=lemma&ct=single" target="_blank"
+			title="服务器" 
+	 
+		style="width:220px;height:176px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e51210da74d4da7d933c9950de3?x-bce-process=image/resize,m_lfit,w_220,limit_1"  alt="服务器"
+							style="width:220px;height:176px;"
+					/>
+</a>
+<span class="description">
+服务器
+</span>
+</div>这种分类标准得主要依据是两种服务器采用得处理器体系结构不同。RISC架构服务器采用得CPU是所谓的精简指令集的处理器，精简指令集CPU的主要特点是采用定长指令，使用流水线执行指令，这样一个指令的处理可以分成几个阶段，处理器设置不同的处理单元执行指令的不同阶段，比如指令处理如果分成三个阶段，当第N条指令处在第三个处理阶段时，第N+1条指令将处在第二个处理阶段，第N+2条指令将处在第一个处理阶段。这种指令的流水线处理方式使得CPU有并行处理指令的能力，这使处理器能够在单位时间内处理更多的指令。IA架构的服务器采用的是CISC体系结构，即复杂指令集体系结构，这种体系结构的特点是指令较长，指令的功能较强，单个指令可执行的功能较多，这样我们可以通过增加运算单元，使一个指令所执行的功能能够同时并行执行来提高运算能力。长时间以来两种体系结构一直在相互竞争中成长，都取得了快速的发展。IA架构的服务器采用了开放体系结构，因而有了大量的硬件和软件的支持者，在近年有了长足的发展。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、根据服务器的规模不同可以将服务器分成工作组服务器、部门服务器和企业服务器。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para">这种分类方法是一种相对比较老的分类方法，主要是根据服务器应用环境的规模来分类，比如一个十台客户机左右的计算机网络环境适合使用工作组服务器，这种服务器往往采用1个处理器，较小的硬盘容量和不是很强的网络吞吐能力；一个几十台客户机的计算机网络适用部门级服务器，部门级服务器相对能力要强，往往采用2颗处理器，较大的内存和磁盘容量，磁盘I/O和网络I/O的能力也较强，这样这台服务器才能有足够的处理能力来受理客户端提出的服务需求；而企业级的服务器往往处于百台客户机以上的网络环境，为了承担对大量服务请求的响应，这种服务器往往采用4颗处理器、有大量的硬盘和内存，并且能够进一步扩展以满足更高的需求，同时由于要应付大量的访问，所以，这种服务器的网络速度和磁盘速度也应该很高。为达到这个要求，往往要采用多个网卡和多个硬盘并行处理。所有上述描述是很不精确的，存在很多特殊情况的，比如一个网络的客户机可能很多，但对服务器的访问可能很少，就没有必要要一台功能超强的企业级服务器，由于这些因素的存在，使得这种服务器的分类方法更倾向于定性，而不是定量，也就是说从小组级到部门级到企业级，服务器的性能是在逐渐加强的，其他各种特性也是在逐渐加强的。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、根据服务器的功能不同我们可以把服务器分成很多类别<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="para" label-module="para">如文件/打印服务器，这是最早的服务器种类，它可以执行文件存储和打印机资??
+10f8
+?共享的服务，至今，这种服务器还在办公环境里得到了广泛应用。数据库服务器，运行一个数据库系统，用于存储和操纵数据，向连网用户提供数据查询、修改服务，这种服务器也是一种广泛应用在商业系统中的服务器。WEB服务器、E-MAIL服务器、NEWS服务器、PROXY服务器，这些服务器都是INTERNET应用的典型、他们能完成主页的存储和传送、电子邮件服务、新闻组服务等。所有上面讲的这些服务器，都是不仅仅是一个硬件系统，他们往往是通过硬件和软件的结合来实现他们特定的功能。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub899_2" class="lemma-anchor " ></a>
+<a name="特性" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>特性</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">可以从这几个方面来衡量服务器是否达到了其设计目的；R：Reliability可靠性；A：Availability可用性；S：Scalability可扩展性；U：Usability易用性；M：Manageability可管理性，即服务器的RASUM衡量<a target=_blank href="/item/%E6%A0%87%E5%87%86">标准</a>。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">1、可扩展性</div><div class="para" label-module="para">服务器必须具有一定的“可扩展性”，这是因为企业网络不可能长久不变，特别是在当今信息时代。如果服务器没有一定的可扩展性，当用户一增多就不能胜任的话，一台价值几万，甚至几十万的服务器在短时间内就要遭到淘汰，这是任何企业都无法承受的。为了保持可扩展性，通常需要在服务器上具备一定的可扩展空间和冗余件（如<a target=_blank href="/item/%E7%A3%81%E7%9B%98%E9%98%B5%E5%88%97">磁盘阵列</a>架位、PCI和内存条插槽位等）。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">可扩展性具体体现在硬盘是否可扩充，CPU是否可升级或扩展，系统是否支持WindowsNT、<a target=_blank href="/item/Linux">Linux</a>或<a target=_blank href="/item/UNIX">UNIX</a>等多种可选主流操作系统等方面，只有这样才能保持前期投资为后期充分利用。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">2、易使用性</div><div class="para" label-module="para">服务器的功能相对于PC机来说复杂许多，不仅指其硬件配置，更多的是指其软件系统配置。服务器要实现如此多的功能，没有全面的软件支持是无法想象的。但是<a target=_blank href="/item/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F">软件系统</a>一多，又可能造成服务器的使用性能下降，管理人员无法有效操纵。所以许多服务器厂商在进行服务器的设计时，除了在服务器的可用性、稳定性等方面要充分考虑外，还必须在服务器的易使用性方面下足功夫。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="r
+1c48
+ef_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">服务器的易使用性主要体现在服务器是不是容易操作，用户<a target=_blank href="/item/%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F">导航系统</a>是不是完善，机箱设计是不是人性化，有没有关键恢复功能，是否有操作系统备份，以及有没有足够的培训支持等方面。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">3、可用性</div><div class="para" label-module="para">对于一台服务器而言，一个非常重要的方面就是它的“可用性”，即所选服务器能满足长期稳定工作的要求，不能经常出问题。其实就等同于Sun所提出的可靠性（Reliability）。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">因为服务器所面对的是整个网络的用户，而不是单个用户，在大中型企业中，通常要求服务器是永不中断的。在一些特殊应用领域，即使没有<a target=_blank href="/item/%E7%94%A8%E6%88%B7">用户</a>使用，有些服务器也得不间断地工作，因为它必须持续地为用户提供连接服务，而不管是在上班，还是下班，也不管是工作日，还是休息、节假日。这就是要求服务器必须具备极高的稳定性的根本原因。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">一般来说专门的服务器都要7X24小时不间断地工作，特别像一些大型的网络服务器，如大公司所用服务器、网站服务器，以及提供公众服务iqdeWEB服务器等更是如此。对于这些服务器来说，也许真正工作开机的次数只有一次，那就是它刚买回全面安装配置好后投入正式使用的那一次，此后，它不间断地工作，一直到彻底报废。如果动不动就出毛病，则网络不可能保持长久正常运作。为了确保服务器具有高得“可用性”，除了要求各配件质量过关外，还可采取必要的技术和配置措施，如<a target=_blank href="/item/%E7%A1%AC%E4%BB%B6%E5%86%97%E4%BD%99">硬件冗余</a>、在线诊断等。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">4、易管理性</div><div class="para" label-module="para">在服务器的主要特性中，还有一个重要特性，那就是服务器的“易管理性”。虽然我们说服务器需要不间断地持续工作，但再好的产品都有可能出现故障，拿人们常说的一句话来说就是：不是不知道它可能坏，而是不知道它何时坏。服务器虽然在稳定性方面有足够保障，但也应有必要的避免出错的措施，以及时发现问题，而且出了故障也能及时得到维护。这不仅可减少服务器出错的机会，同时还可大大提高服务器维护的效率。其实也就是Sun提出的可服务性（Serviceability）。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="para" label-module="para">服务器的易管理性还体现在服务器有没有智能管理系统，有没有自动报警功能，是不是有独立与系统的管理系统，有没有液晶监视器等方面。只有这样，管理员才能轻松管理，高效工作。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_899">&nbsp;</a>
+<a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a><a name="ref_3"></a></div><div class="anchor-list ">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub899_3" class="lemma-anchor " ></a>
+<a name="外形" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>外形</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub899_3_1" class="lemma-anchor " ></a>
+<a name="机架式" class="lemma-anchor " ></a>
+<a name="3-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>机架式</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571/0/4abae5edf431835078f055d1?fr=lemma&ct=single" target="_blank"
+			title="机架式服务器" 
+	 
+		style="width:220px;height:87.404063205418px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/5366d0160924ab18c87e541835fae6cd7b890bb0?x-bce-process=image/resize,m_lfit,w_220,limit_1"  alt="机架式服务器"
+							style="width:220px;height:87.404063205418px;"
+					/>
+</a>
+<span class="description">
+机架式服务器
+</span>
+</div>机架式服务器的外形看来不像计算机，而像<a target=_blank href="/item/%E4%BA%A4%E6%8D%A2%E6%9C%BA">交换机</a>，有1U（1U=1.75英寸=4.445CM）、2U、4U等规格。机架式服务器安装在标准的19英寸机柜里面。这种结构的多为功能型服务器。</div><div class="para" label-module="para">对于信息服务企业（如ISP/ICP/ISV/IDC）而言，选择服务器时首先要考虑服务器的体积、功耗、发热量等物理参数，因为信息服务企业通常使用大型专用<
+5a8
+a target=_blank href="/item/%E6%9C%BA%E6%88%BF">机房</a>统一部署和管理大量的服务器资源，机房通常设有严密的保安措施、良好的冷却系统、多重备份的供电系统，其机房的造价相当昂贵。如何在有限的空间内部署更多的服务器直接关系到企业的服务成本，通常选用机械尺寸符合19英寸工业标准的机架式服务器。机架式服务器也有多种规格，例如1U（4.45cm高）、2U、4U、6U、8U等。通常1U的机架式服务器最节省空间，但性能和可扩展性较差，适合一些业务相对固定的使用领域。4U以上的产品性能较高，可扩展性好，一般支持4个以上的高性能<a target=_blank href="/item/%E5%A4%84%E7%90%86%E5%99%A8">处理器</a>和大量的标准热插拔部件。管理也十分方便，厂商通常提供以相应的管理和监控工具，适合大访问量的关键应用，但体积较大，空间利用率不高。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list ">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub899_3_2" class="lemma-anchor " ></a>
+<a name="刀片" class="lemma-anchor " ></a>
+<a name="3-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-mod
+b50
+ule="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>刀片</h3>
+</div>
+<div class="para" label-module="para">刀片式服务器是指在标准高度的机架式机箱内可插装多个卡式的服务器单元，实现高可用和高密度。每一块“刀片”实际上就是一块系统主板。它们可以通过“板载”硬盘启动自己的操作系统，如Windows NT/2000、Linux等，类似于一个个独立的服务器，在这种模式下，每一块母板运行自己的系统，服务于指定的不同用户群，相互之间没有关联，因此相较于机架式服务器和机柜式服务器，单片母板的性能较低。不过，<a target=_blank href="/item/%E7%AE%A1%E7%90%86%E5%91%98">管理员</a>可以使用<a target=_blank href="/item/%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6">系统软件</a>将这些母板集合成一个<a target=_blank href="/item/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9B%86%E7%BE%A4">服务器集群</a>。在集群模式下，所有的母板可以连接起来提供高速的网络环境，并同时共享资源，为相同的用户群服务。在集群中插入新的“刀片”，就可以提高整体性能。而由于每块“刀片”都是<a target=_blank href="/item/%E7%83%AD%E6%8F%92%E6%8B%94">热插拔</a>的，所以，系统可以轻松地进行替换，并且将维护时间减少到最小。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list ">
+<a name="3_3" class="lemma-anchor para-title" ></a>
+<a name="sub899_3_3" class="lemma-anchor " ></a>
+<a name="塔式" class="lemma-anchor " ></a>
+<a name="3-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>塔式</h3>
+</div>
+<div class="para" label-module="para">塔式服务器应该是大家见得最多，也最容易理解的一种服务器结构类型，因为它的外形以及结构都跟我们平时使用的立式PC差不多，当然，由于服务器的主板扩展性较强、插槽也多出一堆，所以个头比普通主板大一些，因此塔式服务器的主机机箱也比标准的ATX机箱要大，一般都会预留足够的内部空间以便日后进行硬盘和电源的冗余扩展。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="para" label-module="para">由于塔式服务器的机箱比较大，服务器的配置也可以很高，冗余扩展更可以很齐备，所以它的应用范围非常广，应该说<a target=_blank href="/
+5a8
+item/%E4%BD%BF%E7%94%A8%E7%8E%87">使用率</a>最高的一种服务器就是塔式服务器。我们平时常说的通用服务器一般都是塔式服务器，它可以集多种常见的服务应用于一身，不管是速度应用还是存储应用都可以使用塔式服务器来解决。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list ">
+<a name="3_4" class="lemma-anchor para-title" ></a>
+<a name="sub899_3_4" class="lemma-anchor " ></a>
+<a name="机柜式" class="lemma-anchor " ></a>
+<a name="3-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>机柜式</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571/0/1f5694824833b7bef603a6c7?fr=lemma&ct=single" target="_blank"
+			title="机柜式服务器" 
+	 
+		style="width:220px;height:140.8px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAg
+200
+ABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f07330a781a40f4bfbfbed04a5?x-bce-process=image/resize,m_lfit,w_220,limit_1"  alt="机柜式服务器"
+							style="width:220px;height:140.8px;"
+					/>
+</a>
+<span class="description">
+机柜式服务器
+</span>
+</div>在一些高档企业服务器中由于内部结构<a target=_blank href="/item/%E5%A4%8D%E6%9D%82">复杂</a>，内部设备较多，有的还具有许多不同的设备单元或几个服务器都放在一?
+df7
+??机柜中，这种服务器就是<a target=_blank href="/item/%E6%9C%BA%E6%9F%9C%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%99%A8">机柜式服务器</a>。机柜式通常由机架式、刀片式服务器再加上其它设备组合而成。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="para" label-module="para">对于证券、银行、邮电等重要企业，则应采用具有完备的故障自修复能力的系统，关键部件应采用<a target=_blank href="/item/%E5%86%97%E4%BD%99">冗余</a>措施，对于关键业务使用的服务器也可以采用<a target=_blank href="/item/%E5%8F%8C%E6%9C%BA%E7%83%AD%E5%A4%87%E4%BB%BD">双机热备份</a>高可用系统或者是高性能<a target=_blank href="/item/%E8%AE%A1%E7%AE%97%E6%9C%BA">计算机</a>，这样的系统可用性就可以得到很好的保证。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_899">&nbsp;</a>
+<a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a><a name="ref_4"></a></div><div class="anchor-list ">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub899_4" class="lemma-anchor " ></a>
+<a name="安全问题" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>安全问题</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">1、服务器所处运行环境不佳</div><div class="para" label-module="para">对于计算机网络服务器来说，运行的环境是非常重要的。其中所指的环境主要包括运行温度和空气湿度两个方面。网络服务器与电力的关系是非常紧密的，电力是保证其正常运行的能源支撑基础，电力设备对于运行环境的温度和湿度要求通常来说是比较严格的，在温度较高的情况下，网络服务器与其电源的整体温度也会不断升高，如果超出温度耐受临界值，设备会受到不同程度的损坏，严重者甚至会引发火灾。如果环境中的湿度过高，网络服务器中会集结大量水汽，很容易引发漏电事故，严重威胁使用人员的人身安全。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、缺乏正确的网络服务器安全维护意识</div><div class="para" label-module="para">系统在运行期间，部分计算机用户由于缺乏基本的网络服务器安全维护意识，对于网络服务器的安全维护不能给予充分重视。计算机在长期使用的过程中，缺少有效的安全维护措施，最终导致网络服务器出现一系列运行故障。与此同时，某些用户由于没有选择正确的防火墙软件，系统不断出现各种漏洞，用户个人信息极易遭到泄露。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、服务器系统漏洞过多</div><div class="para" label-module="para">计算机网络本身具有开放自由的特性，这种属性既存在技术性优势，在某种程度上也会对计??
+c48
+?机系统的安全造成威胁。一旦系统中出现很难修复的程序漏洞，某些不法人员很可能借助漏洞对缓冲区进行信息查找，然后攻击计算机系统，这样一来，不但用户信息面临泄露的风险，计算机运行系统也会遭到损坏。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub899_5" class="lemma-anchor " ></a>
+<a name="虚拟化技术" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>虚拟化技术</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="5_1" class="lemma-anchor para-title" ></a>
+<a name="sub899_5_1" class="lemma-anchor " ></a>
+<a name="简介" class="lemma-anchor " ></a>
+<a name="5-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>简介</h3>
+</div>
+<div class="para" label-module="para">虚拟化是指通过虚拟化技术将一台计算机虚拟为多台逻辑计算机，它是一个广义的术语，目的是将IT基础设施简单化。虚拟化的对象可以包括服务器、Internet、桌面以及存档空间的虚拟化。自从虚拟化这个概念的提出，其优点被大多数人所熟知，服务器虚拟也变得流行，在过去很长一段时间，世界有一半的服务器都被虚拟化过。它自身存在的一些问题也逐渐袒露在大家面前，例如:服务器虚拟化的过程中颠覆了原有的一些基本结构，使虚拟后的服务器的安全性问题没有办法得到保障，在此基础上访问一些软件可能会产生个人隐私流出的危害，这也将连累被共同虚拟的服务器，而其保存方式也大大增加了信息被盗的几率。由此可见，虚拟化带来的弊端亟需人们解决，根据一项系统的研究表明，大部分的虚拟服务器都比物理服务器更容易被攻击。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="5_2" class="lemma-anchor para-title" ></a>
+<a name="sub899_5_2" class="lemma-anchor " ></a>
+<a name="优点" class="lemma-anchor " ></a>
+<a name="5-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>优点</h3>
+</div>
+<div class="para" label-module="para">1、整合资源</div><div class="para" label-module="para">完成资源整合是服务器虚拟化的主要工作，在信息时代，各行各业在发展过程中，产生的数据呈现爆炸式增长，如何实现对这些数据和资源的综合利用，是各大行业亟需解决的问题。计算机服务器虚拟??
+b50
+?技术的研发和应用，为实现资源整合提供技术支持和应用平台。尤其是近年来，云计算技术的不断普及，集中化资源管理愈发先进，为云技术的发展和推广提供了条件，目前各大企业对计算机硬件资源的利用率不足20%，资源浪费现场依然非常严重，通过服务器虚拟化技术可在原应用保持不变的基础上，集中在某一计算机服务器中，可促使企业的物力资源调利用率大大提升，从而降低了各项硬件的投入，节约了成本。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、低能耗</div><div class="para" label-module="para">在信息时代，技术革新的重中之重，也是降低资源消耗的主要途径，云计算技术备受推广，在IT界大量推广云计算技术。计算机服务器虚拟化是提升资源利用率的主要途径，也可以对能耗进行合理的管理。虚拟化技术则可以模拟出不同场景，从而实现对计算机系统中各种硬件及软件进行全面系统的检查，发现问题立即显示在界面上，提醒相关人员及时处理，从而达到降低能耗，实现绿色发展的目的。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、降低运营成本</div><div class="para" label-module="para">在信息化服务商不断经营转型的背景下，集约化对成本控制提出了更高的要求，投资愈发精细化，而企业实现IT化运行的关键自傲与集中对数据中心的投资，此项内容主要涉及到两方面内容；①计算机硬件和许可服务支持的投资。②计算机系统运维承的成本投资，通过计算机服务器虚拟化技术，能充分发挥服务器应的性能。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">4、应用更加平坦化</div><div class="para" label-module="para">通过服务器虚拟化技术可促使计算机服务器应用平台更加平坦化和透明化，在信息时代，数据中心平台逐年增加，计算机服务器的应用愈发复杂，不同平台在具体运行过程中，需要充分考虑不同操作系统和中间件的层面问题。通过服务器虚拟化技术可有效解决此类问题，将应用和硬件平台相互隔离，实现了跨越平台的限制。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="5_3" class="lemma-anchor para-title" ></a>
+<a name="sub899_5_3" class="lemma-anchor " ></a>
+<a name="关键技术" cla
+b50
+ss="lemma-anchor " ></a>
+<a name="5-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>关键技术</h3>
+</div>
+<div class="para" label-module="para">1、CPU虚拟化技术</div><div class="para" label-module="para">将计算机服务器中的物理CPU虚拟成为一个虚拟的CPU，系统操作可同时使用一个或者多个虚拟CPU，在计算机服务器系统虚拟化CPU可实现相互隔离。目前很多计算机操作系统都是基于X86架构组建起来的，在系统研发设计中，CPU在运行过程中主要涉及到四个层级，分别是Ring0、Ring1、Ring2、Ring3。其中Ring0属于指令层级，可有效执行任何指令，比如；CPU运行的修改都是在Ring0中完成的。虚拟化X86系统，在运行需要在操作系统和硬件之间同时设置虚拟层，Ring0通常情况下，只能在虚拟层中运行，使得一些比较特殊的指令，无法直接作用在硬件上。虚拟化技术则能对各种指令进行有效执行，在计算机服务器虚拟中采用了先进的二进制代码动态翻译机，无论是普通指令，还是特权指令都能有效执行。应用比较先进的前插陷入指令，直接作用在虚拟机上，由虚拟机进行指令翻译，再执行相关操作，此种做法和传统虚拟技术相比，从而实现多系统操作，是目前实现CPU虚拟化的关键技术。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、内存虚拟化技术</div><div class="para" label-module="para">内存虚拟化是实现计算机服务器虚拟化的核心，众所周知，计算机的内存决定了计算机系统的运行效率和稳定性，内存虚拟化的主要原理对服务器中的所有内存都进行统一管理，然后通过虚拟化的封装技术，让内存能够在虚拟机中良好运行。进而促使每个虚拟机都能良好运行。在实现计算机服务器虚拟化过程中，内存虚拟技术和CPU虚拟技术同等重要，访问次数的频率也相互一致。实现虚拟化内存的关键在于实现对物理内存的合理管理，并实现对内存的合理划分，构建起和虚拟层所需内存地址及计算机服务器内存地址相互一致的映射关系，从而确保整个虚拟层的内存访问能够在虚拟化内存和物理内存中的一致性。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、设备、I/O和网口虚拟化技术</div><div class="para" label-module="para">在计算机服务器虚拟化实现过程中，设备和I/O也是计算机系统的主要组成部门，也需要实??
+16a0
+?虚拟化，才能促使服务器也实现虚拟化。和内存虚拟化相比，设备、I/O和网口虚拟化主要通过专业的封装技术来实现，为虚拟机的运行提供技术支持。经常满足虚拟机进行设备访问和I/O请求的需求，在计算机服务器虚拟化平台中，为设备和I/O的虚拟化实现奠定了坚实基础。在具体运行中，各设备型号、配置、参数等在计算机服务器中存在一定的差异，但具体实现计算机服务器中，虚拟机和实体机之间数据和信息的互换，展现出服务器虚拟化技术应用的效果。此项技术的合理应用，既能拓展计算机服务器虚拟化技术的应用范围，也可以大幅度降低信息时代对计算机底层硬件的依赖程度。只要搭设虚拟平台，就可以实现在不同物理机上的相互迁移。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="para" label-module="para">4、实时虚拟迁移技术</div><div class="para" label-module="para">此种虚拟技术和基站软切换的机理基本相同，在计算机服务器中构建了2条链路，虚拟机在实际运行过程中，能够把相对完整的运行环境从原宿机快速迁移到新宿机中，整个迁移过程所需的时间非常短，用户技术几乎察觉不到任何变化。简而言之，实时虚拟迁移技术就是数据拷贝、传送、切换的过程，对计算机服务器硬件维护有非常重要的意义。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="5_4" class="lemma-anchor para-title" ></a>
+<a name="sub899_5_4" class="lemma-anchor " ></a>
+<a name="风险" class="lemma-anchor " ></a>
+<a name="5-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">服务器</span>风险</h3>
+</div>
+<div class="para" label-module="para">1、虚拟化项目最初并未涉及信息安全。</div><div class="para" label-module="para">有一项权威的研究发现，在最初创建以及策划时，少于一半的科研项目是不符合安全规定的。有时团体工作时会不刻意地把安全问题忘记，可是虚拟化过程中带来的问题是不容忽视的，多个虚拟化服务器工作时带来的弊端比未被虚拟化时带来的问题更为严重。所以研究这些问题时也更为繁琐。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、底层虚拟化平台的隐患影响所有托管虚拟机。</div><div class="para" label-module="para">将服务器虚拟化就像在电脑上运行程序一样，都需要借助一个平台。而该平台或多或少会有一些bug而被人们疏忽。最近一些大型虚拟化厂商多次传出虚拟化生产线存在安全隐患，这些隐患尚未得到解决。所以一些人想要攻击时都会选择进攻底层虚拟化平台，通过控制住中枢系统，逃脱安全检测。进而将病毒带入各个服务器中，攻击其弊端，获得了阅览所有信息的权限，导致信息的泄露。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、虚拟机之间的虚拟网络使现有的安全策略失效。</div><div class="para" label-module="para">一些知名的虚拟化生产厂商使用建立虚拟机和虚拟网卡的办法使各虚拟机之间能相互关联以此来实现信息发送与接受的能力。一些主流的保护系统的保护范围都只能保护常规服务器的进出流量，却无法看到各个虚拟机之间的流量传输，无法对虚拟化的流量传输提供保障。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="para" label-module="para">4、将不同安全等级的虚拟机未进行有效隔离。</div><div class="para" label-module="para">一些虚拟化生产厂商正在尝试将服务器全部虚拟化，这样既减少了经费又加快了生产速度。这些服务器包括许多隐私等级较高的系统，所以就要求虚拟机足够安全。而如果未将安全指数不同的服务器分离开，它们由相同的服务器支配，高等级的虚拟机的安全性也会降低并被较低的所控制。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="para" label-module="para">5、缺乏对虚拟机管理程序的安全访问控制。</div><div class="para" label-module="para">虚拟机管理程序就像人脑的中枢神经系统，它支配着虚拟机的一切活动，对各个步骤下发指令，并监督更正两端的功能，因此必须设立权限防止被随意更改。如果没有这种访问权限，HK们就会通过地址连接到中枢神经上，就算他们无法轻易进入程序也可以通过创建多个服务器进而使管理程序满载，迫使管理程序崩溃进而摧毁所有的虚拟机。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub899_6" class="lemma-anchor " ></a>
+<a name="维护保养" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">服务器</span>维护保养</h2>
+<a clas
+16a0
+s="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">1、注重机房环境的建设</div><div class="para" label-module="para">机房环境对服务器的正常运转有着重要的影响作用。因此，服务器维护和保养的首要环节就是做好机房环境建设。机房要保证充足的空间，用以安装和配置服务器的相关设备，机房的隔断，地板等要组好防静电等细节处理。机房的防火工作也很关键，要做好墙面和电缆等的防火处理。一旦遇到火情等，如何保障设备的安全，如何保障人员的有序撤离等都是机房建设中需要考虑的因素。机房的温度和湿度也应当操持在一定的范围，温度和湿度对于电子产品的正常工作有着非常大的影响作用。服务器是电子设备中对温度和湿度都较为敏感的设备。如果服务器所在的机房太过于干燥，那么人员在机房中与设备接触的过程中非常容易产生静电。这种静电一般都有几千伏乃至上万伏，这对服务器的正常运行时非常危险的，极易引起严重的事故。如何科学合理的做好机房布局和管理工作是机房建设的关键。目前我国的计算机服务器机房管理还存在着很多需要完善的地方，比如机房的管理现代化水平还不高，很多监测和维护工作还单纯依靠人力完成，没有形成信息化和网络化的管理机制。其实，电子检测系统不管是在设计上还是在实施上并没有多少难度，但由于我们重视程度的不够，机房建设的总体水平依然在低位徘徊。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_899">&nbsp;</a>
+</div><div class="para" label-module="para">2、做好硬件维护工作</div><div class="para" label-module="para">服务器的硬件组成较为复杂，对于服务器硬件的维护应由专业人员进行。在维护和保养存储设备时，我们首先应当对其容量进行测试，看是否需要进行扩容等操作。存储容量一定要能满足任务的需求，并留有一定的冗余量。在拆卸和更新服务器设备时，务必让设备处于断电状态并进行接地处理。即便是更换最简单的部件，这些环节也不能省略。对于一些不熟悉的部件，要反复仔细的阅读说明书和参照文件，在没有十足把握的前提下切忌盲目拆解。要定期对服务器进行除尘处理。灰尘对硬件的工作有着很强的影响，特别是服务器这种高温高速运行的设备，大量的积尘对设备造成的伤害往往是致命的。除尘工作要科学有序的进行，不能想当然，也不能蛮干。在除尘过程中特别注意对电源系统的保护。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_899">&nbsp;</a>
+</div><div class="para" label-module="para">3、维护好服务器软件</div><div class="para" label-module="para">软件是服务器的重要组成部分，服务器的稳定高效运行离不开相应的软件。我们要定期对服务器的软件系统进行巡检，及时发现漏洞，及时安装官方给定的补丁程序。在扩展服务器数据库时，在条件允许的情况下，最好对原有数据进行备份，以免造成不必要的损失。</div><div class="para" label-module="para">4、做好电力控制没有稳定的电力保证</div><div class="para" label-module="para">做好电力控制没有稳定的电力保证，服务器就没有办法正常工作。电子控制是一个非常关键，但又非常容易被忽视的问题。在机房建设之初，我们就应当充分考虑到服务器的电力保障。要为机房设计和配置一套稳定，可靠的电力供应系统。这套系统还要有处置和应对突发事件的能力，例如，不可预知的停电、雷电等。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_899">&nbsp;</a>
+</div><div class="para" label-module="para">5、密码管理</div><div class="para" label-module="para">服务器的密码管理是服务器防御能力的最关键组成部分。密码的管理和更换应当形成一套长效机制。我们要定期对服务器的密码进行更换，密码应有专人管理。选用的密码要有一定的专业性，一定的复杂度，最好是将数字和字母等结合起来，大小写也要融合进去。在日常的检查中，我们要做好登统计，关闭一些不太使用的端口。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_899">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="album-list" class="lemma-anchor " ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png" alt="">
+<span>解读词条背后的知识</span>
+</div>
+<div class="tashuo-multiple">
+<div class="tashuo-wrapper">
+<div class="tashuo-view">
+<ul class="tashuo-slider maqueeCanvas" style="width:984px">
+<li class="slider-item">
+<ul class="tashuo-list">
+<li class="tashuo-item J-item" data-tashuoId="7837436853d1ea2674f17dce">
+<div class="t
+b50
+ashuo-author">
+<a href="/usercenter/userpage?uk=62079b9e&authorId=63ebc0fd56ef471e5c1a3d23&from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="https://pic.rmb.bdstatic.com/3db44258c9a193efc251355e87af5ce5.jpeg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>TA说</strong>
+<span>中国科协主办 让科技知识在网上和生活中流行</span>
+</div>
+</a>
+</div>
+<a href="/tashuo/browse/content?id=7837436853d1ea2674f17dce&lemmaId=100571&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://bkimg.cdn.bcebos.com/pic/3812b31bb051f819b4f6fdced4b44aed2f73e767" data-width="" data-height="" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_543bb29.png"></div>
+<p class="title">
+首款亿级并发云服务器有何绝技？
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=7837436853d1ea2674f17dce&lemmaId=100571&fromLemmaModule=pcBottom" target="_blank">
+不久前，全球首款亿级并发云服务器系统在天津正式量产，该产品是“十二五”国家863计划信息技术领域“云计算关键技术与系统（二期）”重大专项的成果。那么，什么是云服务器，和云计算又有什么关系？这款云服务器有何特殊之处呢？</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2019-06-14</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">47</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoId="632fc520d03fe1e217bfbb36">
+<div class="tashuo-author">
+<a href="/usercenter/userpage?uk=cf715fa2&authorId=eca9aca482087f4ed5278825&from=lemma" target="_blank">
+<div class="ta-author-area"><span><img src="http://pic.rmb.bdstatic.com/f2eeef51bd838a6a9237e268cd492f52.jpeg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>爱范儿</strong>
+<span>广州爱范儿科技股份有限公司官方帐号,数码达人,优质创作者</span>
+</div>
+<i class="bjh-author-type-2"></i></a>
+</div>
+<div class="no-cover">
+<p class="title">
+<a href="/tashuo/browse/content?id=632fc520d03fe1e217bfbb36&lemmaId=100571&fromLemmaModule=pcBottom" target="_blank">
+当服务器被狗咬了，我们除了紧急修复还可以干些什么
+</a>
+</p>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=632fc520d03fe1e217bfbb36&lemmaId=100571&fromLemmaModule=pcBottom" target="_blank">
+今天中午开始，某知名旅行类网站出现了长时间的服务不可用状况。本文尝试从技术方面分析其可能遇到的问题，并提出一些解决方案。互联网上的外部威胁级别，特别是 APT 攻击的出现频率在最近几年逐年上升。</a>
+</p>
+</div>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2016-10-02</span><span class="tashuo-like J-like " data-isvote="0
+16a0
+"><i></i><strong class="J-number">86</strong></span>
+</div>
+</li>
+</ul>
+</li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_899_35240" class="anchor-2"></a>
+<div id="rs-container-899-35240" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-899-35240'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":35240,"fentryTableName":"\u8d44\u6e90\u4fe1\u606f\u5b66","fentryTableType":1,"entryId":2664425,"templateId":0,"entryTitle":"\u8d44\u6e90\u4fe1\u606f\u5b66","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([899, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-899-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_899" id="refIndex_1_899" title="向上跳转" href="#ref_[1]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/2276cUtlzl-Hj_rDpoS87D8gUsL2a1N1qoMp5NtjkX29wwBmRMoDQkdt7v3V66Bx2HTJaNpvz_GS1dlQaIhmAV_eXMiPJd0G4ohx-GqmA-_tgT_wH84I-dO2mCa6OJmtqtG2tC8qYZetizY" target="_blank" class="text">服务器网络安全分析与研究<span class="linkout">&nbsp;</span></a>
+<span class="site">．万方数据知识服务平台</span><span>&#91;引用日期2019-10-22&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-899-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_899" id="refIndex_2_899" title="向上跳转" href="#ref_[2]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/b04dxoI9eIxssrPn9UDLoEa9x7HTJVWg6F-ImTASo1-RJSMbrOfiBu9XdvJhNDAKro4Wa835XdkkYIteAU002h50mXSnNHyNWuxYkR4XXu2vKvA" target="_blank" class="text">服务器的分类<span class="linkout">&nbsp;</span></a>
+<span class="site">．维普资讯</span><span>&#91;引用日期2020-03-06&#93;</span></li><li class="reference-item reference-item--type2 " id="reference-[3]-899-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_899" id="refIndex_3_899" title="向上跳转" href="#ref_[3]_899">&nbsp;&nbsp;</a>
+<span>陈艳华，赵跟党</span><span class="text">．城市轨道交通信号基础设备</span><span>：重庆大学出版社</span><span>，2013</span><span>：192-193</span></li><li class="reference-item reference-item--type2 " id="reference-[4]-899-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_899" id="refIndex_4_899" title="向上跳转" href="#ref_[4]_899">&nbsp;&nbsp;</a>
+<span>单从海，赵通海</span><span class="text">．现代教育技术应用指南</span><span>：北京理工大学出版社</span><span>，2011</span><span>：10-11</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-899-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_899" id="refIndex_5_899" title="向上跳转" href="#ref_[5]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/dc1bbdLg1w7mNRvzkaY76D5Xq_tAr-fuxWLLWt20Mw1OoewCFtEBi03P_nK8vpAcoS7Q2i7aTqoJZSEolcoqLNHLnh1pWVwTNvcMcU3aztd1Y5McNtLab-ks2YZIi17YRxwsmgevljq1" target="_blank" class="text">浅析计算机网络服务器日常安全与维护 <span class="linkout">&nbsp;</span></a>
+<span class="site">．万方数据知识服务平台</span><span>&#91;引用日期2019-10-22&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-899-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_899" id="refIndex_6_899" title="向上跳转" href="#ref_[6]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/b480pCet-XtezGgeQ84BV_hCSTvql_GbkklZn0oGZmRLqU9GinsqiuCc7rDgmly6sDoFGe56U9Ybxjff292qHQdrPVgaeapqRBXGwlM1RdFVZUaosBXLEyYUipu7o3aGY45cJGOqRXFt3PXJ" target="_blank" class="text">服务器虚拟化常见的安全隐患与防范策略探讨<span class="linkout">&nbsp;</span></a>
+<span class="site">．万方数据知识服务平台</span><span>&#91;引用日期2019-10-22&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-899-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_899" id="refIndex_7_899" title="向上跳转" href="#ref_[7]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/1a1f3bAB3fufq2igAUgBkjPPRLdDqqzEsL9XbIPG8Y7H2yRKqT-tZBAQ9nu4TOUCkV2cbggFYLlU3kdm6I5JvSxS5r_cmbmGOFy1DxsbxwepmTepURlfTdvyY7ypzzGzB65QczEnXEfq" target="_blank" class="text">计算机服务器虚拟化关键技术探析<span class="linkout">&nbsp;</span></a>
+<span class="site">．万方数据知识服务平台</span><span>&#91;引用日期2019-10-22&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-899-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_899" id="refIndex_8_899" title="向上跳转" href="#ref_[8]_899">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/100571/2478tzCffQaE-qb8MNsreJbCqrnD97PkAQsy7SD-NYPNOi-ICAQkJgn34aNC9hMWEgEPGHg_ljh3l_tz9U-e4qxu7bDLRAWs5dCxvU2F0gq6z5hJludItnlsuEvjo0K5PucHpe7TG8Q" target="_blank" class="text">浅谈服务器日常维护与保养<span class="linkout">&nbsp;</span></a>
+<span class="site">．万方数据知识服务平台</span><span>&#91;引用日期2019-10-22&#93;</span></li></ul>
+</dd>
+</dl>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a nslog-type="10002401"
+                    href="/pic/%E6%9C%8D%E5%
+10f8
+8A%A1%E5%99%A8/100571/1/5366d0160924ab18b2c6792e38fae6cd7a890bd2?fr=lemma&amp;ct=single" target="_blank"
+	            >
+<img src="https://bkimg.cdn.bcebos.com/pic/5366d0160924ab18b2c6792e38fae6cd7a890bd2?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>服务器的概述图（1张）</div>
+</a>
+</div>
+<div class="professional-con">
+<div class="professional-header">
+<div style="background-image: url('https://bkimg.cdn.bcebos.com/pic/b3119313b07eca8035a902c8982397dda1448374?x-bce-process=image/resize,m_lfit,w_50,limit_1')">
+<h2 title="科普中国">科普中国</h2>
+<p title="致力于权威的科学传播">致力于权威的科学传播</p>
+</div>
+</div>
+<div class="professional-content">
+<div class="professional-title professional-clearfix">
+<h3>本词条认证专家为</h3>
+</div>
+<div class="professional-list" id="professional_list">
+<div class="professional-list-slider J-slider">
+<ul>
+<li class="professional-clearfix">
+<div class="pro-line"></div>
+<div class="pro-content">
+<div class="pro-content-title professional-clearfix">
+<h4>孙锐</h4>
+<span>教授</span><i>审核</i></div>
+<p title="合肥工业大学">合肥工业大学</p>
+</div>
+</li>
+</div>
+</div>
+</div>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="100571" data-lemmaTitle="服务器"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="100571">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><div id="side-auth">
+<div id="authEdit" class="side-box">
+<dl>
+<dt class="sidetitle">权威合作编辑</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a href="http://www.kepuchina.cn" target="_blank" class="nslog:7075" id="authOrgRightEditPic">
+<img style="display: none" onload="this.style.width = '50px';this.style.display='';" src="https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b83dbd999ea1f4134960aeda6" alt="权威编辑" title="权威编辑"/>
+</a>
+</div>
+<div class="side-auth-info">
+<p class="auth-info-name">
+<a href="http://www.kepuchina.cn" nslog-type="7075" target="_blank" id="authOrgRightEdit">“科普中国”科学百科词条编写与应用工作项目</a>
+</p>
+<span id="authDetail">
+“科普中国”是为我国科普信息化建设塑造的全...
+</span>
+</div>
+<div class="clear"></div>
+</dd>
+<dd class="authVersion">
+<span style="">
+<a class="whatIs" align="absmiddle" href="javascript:void(0);"></a><a href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" target="_blank" nslog-type="36" class="link-toggle" id="whatIsAuthEdit">什么是权威编辑</a>
+</span>
+<span class="divisionLine"></span>
+<a href="/history/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571/141252764" class="nslog:37" target="_blank" id="authEditVersion">查看编辑版本</a>
+</dd>
+</dl>
+</div>
+<div id="authResource" class="side-box">
+<dl>
+<dt class="sidetitle">资源提供</dt>
+<dd class="side-auth-content">
+<div class="side-auth-img">
+<a href="http://www.china-cic.cn" target="_blank" nslog-type="7080">
+<img style="display: none" onload="this.style.width = '50px';this.style.display='';" src="https://baike.baidu.com/cms/rc/%E9%8
+10f8
+0%9A%E4%BF%A1%E5%AD%A6%E4%BC%9A.png" alt="资源合作" title="资源合作"/>
+</a>
+</div>
+<div class="side-auth-info">
+<div class="auth-info-name">
+<a href="http://www.china-cic.cn" class="nslog:7080" target="_blank">中国通信学会</a>
+</div>
+<p>中国通信学会是全国通信...</p>
+<p>提供资源类型：<span style="color: #555555;">内容</span></p>
+</div>
+</dd>
+<dd class="authVersion">
+<span>
+<a class="whatIs" align="absmiddle" href="javascript:void(0);"></a>
+<a href=" http://baike.bdimg.com/cms/static/cooperation/content.pdf" target="_blank" nslog-type="3024" class="link-toggle">什么是资源合作</a>
+</span>
+</dd>
+</dl>
+</div>
+</div>
+<dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：289次<a href="/historylist/%E6%9C%8D%E5%8A%A1%E5%99%A8/100571" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="2509934475" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=SharonLiu1988&from=lemma"
+                    nslog-type="1022">SharonLiu1988</a><span class="j-modified-time" style="display:none">（2020-10-28）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="36454791" username="DrakknighT" target="_blank" href="/usercenter/userpage?uname=DrakknighT&from=lemma">DrakknighT</a>
+<div class="right">
+<a target="_blank" href="http://baike.baidu.com/view/12878522.htm"><img align="absmiddle" alt="优质版本" title="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="6681189" username="yefeizi" target="_blank" href="/usercenter/userpage?uname=yefeizi&from=lemma">yefeizi</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">分类</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">特性</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">外形</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#3_1" class="title-link">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">机架式</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_2" class="title-link">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">刀片</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_3" class="title-link">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">塔式</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_4" class="title-link">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">机柜式</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text"
+5a8
+>
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">安全问题</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">虚拟化技术</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#5_1" class="title-link">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">简介</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_2" class="title-link">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">优点</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_3" class="title-link">
+<span class="text">
+<span class="title-index">5.3</span>
+<span class="title-link" nslog-type="10002802">关键技术</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_4" class="title-link">
+<span class="text">
+<span class="title-index">5.4</span>
+<span class="title-link" nslog-type="10002802">风险</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">维护保养</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="j
+16a0
+avascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd">
+<div class="union-content"></div>
+</div>
+<div id="J-side-box-yitiao" class="side-box yitiao-box">
+<div class="recommend-title">为您推荐<span class="recommend-flag">广告</span></div>
+<div class="recommend-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>搜索发现</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="服务器" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2020&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="服务器" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bds
+10f8
+harebuttonbox new-side-share" id="side-share">
+<div class="share-list">
+<a id="J-bds_task" class="bds_task" target="_blank" href="https://baike.baidu.com/task" nslog-type="10060902"></a>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+<a id="J-bds_app" class="bds_app"  href="javascript:void(0);" nslog-type="10060901">
+<em class="cmn-icon cmn-icons cmn-icons_mobile-phone"></em>
+</a>
+</div>
+<div class="go-top">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_up-arrow"></em>
+</div>
+<div id="J-task-tip" class="task-tip"></div>
+<div id="J-app-download" class="app-download hide">
+<div class="text">
+<h3 class="main">扫码下载百科APP</h3>
+<h4 class="sub">领取<b>50</b>财富值奖励</h4>
+</div>
+<div class="qrcode"></div>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div><script>
+        window['__abbaidu_2020_subidgetf'] = function () {
+            var subid = 'baike_pc_lemmapage';
+            return subid;
+        };
+        window['__abbaidu_2020_cb'] = function (res) {
+            document.cookie = 'BAIKE_SHITONG=' + encodeURIComponent(res) + '; path=/item; max-age=86400';
+        }
+    </script>
+
+<script>
+      if (!window['__abbaidu_2020_subidgetf']) {
+        window['__abbaidu_2020_subidgetf'] = function () {
+            var subid = 01000000;
+            return subid;
+        };
+      }
+    </script>
+<script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_5e08533.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js","wiki-lemma:widget/tools/clickstream/clickstream.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_d6baf99.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_9431f2d.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-jquery-ps-link_06a911b.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_39f950f.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_77edb01.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_f4b3ee1.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/layout/layout_76ea466.js"></script>
+<script type="text/javascript">!function(){        require.async(['wiki-lemma:widget/tools/clickstream/clickstream']);
+    }();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jque
+10f8
+ry'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){        var s = require('wiki-lemma:widget/lemma_content/configModule/secondsKnow/secondsKnow');
+        s.initialize({"secondsKnow":[{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":19451434,"mid":"mda-Og5pvPA8lgXMtZ6Q","cover":"https:\/\/bkimg.cdn.bcebos.com\/pic\/f603918fa0ec08fa527538a056ee3d6d55fbdabb?x-bce-process=image\/resize,m_fill,w_685,h_390,align_0,limit_0","cover_small":"https:\/\/bkimg.cdn.bcebos.com\/pic\/f603918fa0ec08fa527538a056ee3d6d55fbdabb?x-bce-process=image\/resize,m_fill,w_280,h_150,align_0,limit_0"},"coverSrc":"f603918fa0ec08fa527538a056ee3d6d55fbdabb","title":"\u4e00\u5206\u949f\u4e86\u89e3\u670d\u52a1\u5668","mediaId":"mda-Og5pvPA8lgXMtZ6Q","secondId":19451434},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":9074321,"mid":"mda-OgbKSXY16SVdPBHF","cover":"https:\/\/bkimg.cdn.bcebos.com\/pic\/5d6034a85edf8db142084f7c0623dd54564e7487?x-bce-process=image\/resize,m_fill,w_685,h_390,align_0,limit_0","cover_small":"https:\/\/bkimg.cdn.bcebos.com\/pic\/5d6034a85edf8db142084f7c0623dd54564e7487?x-bce-process=image\/resize,m_fill,w_280,h_150,align_0,limit_0"},"coverSrc":"5d6034a85edf8db142084f7c0623dd54564e7487","title":"\u4e00\u5206\u949f\u4e86\u89e3\u670d\u52a1\u5668","mediaId":"mda-OgbKSXY16SVdPBHF","secondId":9074321},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":25841736,"mid":"mda-Ofbn4meZEwxyMv5u","cover":"https:\/\/bkimg.cdn.bcebos.com\/pic\/203fb80e7bec54e736d1889c79728c504fc2d5623c54?x-bce-process=image\/resize,m_fill,w_685,h_390,align_0,limit_0","cover_small":"https:\/\/bkimg.cdn.bcebos.com\/pic\/203fb80e7bec54e736d1889c79728c504fc2d5623c54?x-bce-process=image\/resize,m_fill,w_280,h_150,align_0,limit_0"},"coverSrc":"203fb80e7bec54e736d1889c79728c504fc2d5623c54","title":"\u670d\u52a1\u5668\u7adf\u7136\u4f1a\u6ce1\u5728\u6c34\u91cc","mediaId":"mda-Ofbn4meZEwxyMv5u","secondId":25841736},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":25810040,"mid":"mda-OftOzczOmPXU0VoI","cover":"https:\/\/bkimg.cdn.bcebos.com\/pic\/242dd42a2834349b033b9f60bea002ce36d3d4391089?x-bce-process=image\/resize,m_fill,w_685,h_390,align_0,limit_0","cover_small":"https:\/\/bkimg.cdn.bcebos.com\/pic\/242dd42a2834349b033b9f60bea002ce36d3d4391089?x-bce-process=image\/resize,m_fill,w_280,h_150,align_0,limit_0"},"coverSrc":"242dd42a2834349b033b9f60bea002ce36d3d4391089","title":"\u5fae\u8f6f\u4ece\u6d77\u5e95\u635e\u51fa2\u5e74\u524d\u7684\u5927\u5706\u67f1\u6d77\u5e95\u670d\u52a1\u5668#\u661f\u77e5\u8ba1\u5212#","mediaId":"mda-OftOzczOmPXU0VoI","secondId":25810040},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":25398959,"mid":"mda-OgCDsfxzUdcVRlrs","cover":"https:\/\/bkimg.cdn.bcebos.com\/pic\/7aec54e736d12f2eb9383541f48ac2628535e5ddc2f3?x-bce-process=image\/resize,m_fill,w_685,h_390,align_0,limit_0","cover_small":"https:\/
+10f8
+\/bkimg.cdn.bcebos.com\/pic\/7aec54e736d12f2eb9383541f48ac2628535e5ddc2f3?x-bce-process=image\/resize,m_fill,w_280,h_150,align_0,limit_0"},"coverSrc":"7aec54e736d12f2eb9383541f48ac2628535e5ddc2f3","title":"\u5982\u4f55\u4fdd\u62a4\u4f60\u5728\u670d\u52a1\u5668\u91cc\u7684\u6570\u636e\uff1f","mediaId":"mda-OgCDsfxzUdcVRlrs","secondId":25398959}],"pageBg":null,"type":"normal","orgId":75,"lemmaId":100571,"lemmaTitle":"\u670d\u52a1\u5668","isShow":1});
+    }();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('100571', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '100571',                    lemmaTitle:"\u670d\u52a1\u5668",                    lemmaDesc:null,                    versionId: '155088894',                    subLemmaId: '899'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('100571', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"100571",
+			lemmaId:"899",
+			subLemmaId:"899"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '100571'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                clickstream.logViewEl({
+                    page: 'lemma',
+                    element: 'edit_btn',
+                });
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                clickstream.logViewEl({
+       
+16a0
+             page: 'lemma',
+                    element: 'edit_btn',
+                });
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        var discussionKey = 'discussion' + 100571;
+        var discussionNum = 0;
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">'
+                + '词条锁定，暂时无法编辑</h2>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=100571&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=100571', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var lastNum = parseInt(localStorage.getItem(discussionKey)) || 0;
+                discussionNum = res.data.discussionCount;
+                var numText = (res.data.discussionCount - lastNum) <= 99 ? (res.data.discussionCount - lastNum) : '99+';
+                if (numText > 0 || numText === '99+') {
+                    $('.j-discussion-link .num').text(numText).show();
+                }
+
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            localStorage.setItem(discussionKey, discussionNum);
+            $(this).find('.num').remove();
+        });
+        // 讨论按钮展现量
+        nsLog(90000101, window.location.href, {
+            lemmaid: 100571
+        });
+    }
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/to
+b50
+ols/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+5a8
+
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+     
+16a0
+       if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('100571', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"100571",
+			lemmaTitle:"服务器",
+			lemmaId:"899",
+			subLemmaId:"899",
+			data:{"736936":{"coverpic":"b03533fa828ba61ec4bdb8894134970a314e59c0","desc":"","albumTag":"","height":184,"width":673,"total":1,"coverurl":"https:\/\/bkimg.cdn.bcebos.com\/pic\/b03533fa828ba61ec4bdb8894134970a314e59c0?x-bce-process=image\/resize,m_lfit,w_235,h_235,limit_1"},"954946":{"coverpic":"77c6a7efce1b9d16872fbbc0f3deb48f8d5464a2","desc":"","albumTag":"","height":493,"width":359,"total":2,"coverurl":"https:\/\/bkimg.cdn.bcebos.com\/pic\/77c6a7efce1b9d16872fbbc0f3deb48f8d5464a2?x-bce-process=image\/resize,m_lfit,w_235,h_235,limit_1"},"0":{"coverpic":"34fae6cd7b899e51210da74d4da7d933c9950de3","width":1100,"height":880,"desc":"\u8bcd\u6761\u56fe\u7247","total":3,"coverurl":"https:\/\/bkimg.cdn.bcebos.com\/pic\/34fae6cd7b899e51210da74d4da7d933c9950de3?x-bce-process=image\/resize,m_lfit,w_235,h_235,limit_1"},"1":{"coverpic":"5366d0160924ab18b2c6792e38fae6cd7a890bd2","desc":"\u6982\u8ff0\u56fe\u518c","albumTag":"","height":628,"width":550,"total":1,"coverurl":"https:\/\/bkimg.cdn.bcebos.com\/pic\/5366d0160924ab18b2c6792e38fae6cd7a890bd2?x-bce-process=image\/resize,m_lfit,w_235,h_235,limit_1","toppics":[{"src":"5366d0160924ab18b2c6792e38fae6cd7a890bd2","owner":"","desc":"","width":550,"height":628}],"coverPic":{"src":"5366d0160924ab18b2c6792e38fae6cd7a890bd2","owner":"","desc":"","width":550,"height":628},"wapPic":null,"sharePic":null}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/tashuo/tashuo"],function(init){
+        init({
+            lemmaTitle: "\u670d\u52a1\u5668",
+            lemmaId: 100571
+        });
+    });
+}();
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "899",
+                newLemmaId: "100571",
+                subLemmaId: "899",
+                lemmaTitle: "服务器"
+            });
+        });
+    }();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"899"
+			});
+			new ReferenceTip({
+				subLemmaId:"100571",
+				lemmaTitle:"服务器",
+				reference:[{"type":"1","title":"\u670d\u52a1\u5668\u7f51\u7edc\u5b89\u5168\u5206\u6790\u4e0e\u7814\u7a76","url":"\/reference\/100571\/2276cUtlzl-Hj_rDpoS87D8gUsL2a1N1qoMp5NtjkX29wwBmRMoDQkdt7v3V66Bx2HTJaNpvz_GS1dlQaIhmAV_eXMiPJd0G4ohx-GqmA-_tgT_wH84I-dO2mCa6OJmtqtG2tC8qYZetizY","site":"\u4e07\u65b9\u6570\u636e\u77e5\u8bc6\u670d\u52a1\u5e73\u53f0","publishDate":"","refDate":"2019-10-22","count":"1","uuid":"gj58icvi4c","index":1},{"type":"1","title":"\u670d\u52a1\u5668\u7684\u5206\u7c7b","url":"\/reference\/100571\/b04dxoI9eIxssrPn9UDLoEa9x7HTJVWg6F-ImTASo1-RJSMbrOfiBu9XdvJhNDAKro4Wa835XdkkYIteAU002h50mXSnNHyNWuxYkR4XXu2vKvA","site":"\u7ef4\u666e\u8d44\u8baf","publishDate":"","refDate":"2020-03-06","count":"1","uuid":"gj58icvi5u","index":2},{"type":"2","author":"\u9648\u8273\u534e\uff0c\u8d75\u8ddf\u515a","title":"\u57ce\u5e02\u8f68\u9053\u4ea4\u901a\u4fe1\u53f7\u57fa\u7840\u8bbe\u5907","publisher":"\u91cd\u5e86\u5927\u5b66\u51fa\u7248\u793e","place":"","publishYear":"2013","refPage":"192-193","count":"1","uuid":"gj58icvi7h","index":3},{"type":"2","author":"\u5355\u4ece\u6d77\uff0c\u8d75\u901a\u6d77","title":"\u73b0\u4ee3\u6559\u80b2\u6280\u672f\u5e94\u7528\u6307\u5357","publisher":"\u5317\u4eac\u7406\u5de5\u5927\u5b66\u51fa\u7248\u793e","place":"","publishYear":"2011","refPage":"10-11","count":"1","uuid":"gj58icvi93","index":4},{"type":"1","title":"\u6d45\u6790\u8ba1\u7b97\u673a\u7f51\u7edc\u670d\u52a1\u5668\u65e5\u5e38\u5b89\u5168\u4e0e\u7ef4\u62a4 ","url":"\/reference\/100571\/dc1bbdLg1w7mNRvzkaY76D5Xq_tAr-fuxWLLWt20Mw1OoewCFtEBi03P_nK8vpAcoS7Q2i7aTqoJZSEolcoqLNHLnh1pWVwTNvcMcU3aztd1Y
+16a0
+5McNtLab-ks2YZIi17YRxwsmgevljq1","site":"\u4e07\u65b9\u6570\u636e\u77e5\u8bc6\u670d\u52a1\u5e73\u53f0","publishDate":"","refDate":"2019-10-22","count":"1","uuid":"gj58icviap","index":5},{"type":"1","title":"\u670d\u52a1\u5668\u865a\u62df\u5316\u5e38\u89c1\u7684\u5b89\u5168\u9690\u60a3\u4e0e\u9632\u8303\u7b56\u7565\u63a2\u8ba8","url":"\/reference\/100571\/b480pCet-XtezGgeQ84BV_hCSTvql_GbkklZn0oGZmRLqU9GinsqiuCc7rDgmly6sDoFGe56U9Ybxjff292qHQdrPVgaeapqRBXGwlM1RdFVZUaosBXLEyYUipu7o3aGY45cJGOqRXFt3PXJ","site":"\u4e07\u65b9\u6570\u636e\u77e5\u8bc6\u670d\u52a1\u5e73\u53f0","publishDate":"","refDate":"2019-10-22","count":"1","uuid":"gj58icvicd","index":6},{"type":"1","title":"\u8ba1\u7b97\u673a\u670d\u52a1\u5668\u865a\u62df\u5316\u5173\u952e\u6280\u672f\u63a2\u6790","url":"\/reference\/100571\/1a1f3bAB3fufq2igAUgBkjPPRLdDqqzEsL9XbIPG8Y7H2yRKqT-tZBAQ9nu4TOUCkV2cbggFYLlU3kdm6I5JvSxS5r_cmbmGOFy1DxsbxwepmTepURlfTdvyY7ypzzGzB65QczEnXEfq","site":"\u4e07\u65b9\u6570\u636e\u77e5\u8bc6\u670d\u52a1\u5e73\u53f0","publishDate":"","refDate":"2019-10-22","count":"1","uuid":"gj58icvidz","index":7},{"type":"1","title":"\u6d45\u8c08\u670d\u52a1\u5668\u65e5\u5e38\u7ef4\u62a4\u4e0e\u4fdd\u517b","url":"\/reference\/100571\/2478tzCffQaE-qb8MNsreJbCqrnD97PkAQsy7SD-NYPNOi-ICAQkJgn34aNC9hMWEgEPGHg_ljh3l_tz9U-e4qxu7bDLRAWs5dCxvU2F0gq6z5hJludItnlsuEvjo0K5PucHpe7TG8Q","site":"\u4e07\u65b9\u6570\u636e\u77e5\u8bc6\u670d\u52a1\u5e73\u53f0","publishDate":"","refDate":"2019-10-22","count":"1","uuid":"gj58icvifk","index":8}]
+			});
+		});
+	}();
+!function(){    var $ = require("wiki-common:widget/lib/jquery/jquery");
+    
+    var slider = {
+        init: function() {
+            this.control = $("#professional_control");
+            this.prev = this.control.find(".J-prev");
+            this.next = this.control.find(".J-next");
+            this.el = $("#professional_list");
+            this.view = this.el.find(".J-slider");
+            this.items = this.view.find("ul");
+            this.itemWidth = this.items.eq(0).innerWidth();
+            this.initStatus();
+            this.bindEvents();
+        },
+        initStatus: function() {
+            this.view.css({
+                width: this.items.length*this.itemWidth+"px",
+                position: "absolute"
+            });
+            this.setHeight(0);
+            if ( this.items.length < 2 ) return;
+            this.changeControllers(0);
+        },
+        bindEvents: function() {
+            var self = this, index = 0;
+            if ( this.items.length < 2 ) return;
+            this.next.on("click", function() {
+                if ( self.items.length-1 === index ) return;
+                index++;
+                self.setHeight(index);
+                self.goAni(index);
+                self.changeControllers(index);
+            });
+            this.prev.on("click", function() {
+                if ( index == 0 ) return;
+                index--;
+                self.setHeight(index);
+                self.goAni(index);
+                self.changeControllers(index);
+            });
+        },
+        setHeight: function(index) {
+            this.el.height( this.items.eq(index).innerHeight() );
+        },
+        goAni: function(index) {
+            this.view.animate({
+                left: index === 0 ? 0 : "-"+this.itemWidth*index+"px"
+            });
+        },
+        changeControllers: function(index) {
+            var disabledClass = "pro-control-disable";
+            this.prev.removeClass(disabledClass);
+            this.next.removeClass(disabledClass);
+            if ( index === 0 ) {
+                this.prev.addClass(disabledClass);
+            } else if ( index === this.items.length-1 ) {
+                this.next.addClass(disabledClass);
+            }
+        }
+    };
+    slider.init();
+}();
+!function(){    require.async(["wiki-lemma:widget/promotion/rightTashuo/rightTashuo"],function(init){
+        init({
+            lemmaId: 100571,
+            lemmaTitle: '服务器'
+        });
+    });
+}();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            100571,
+            '服务器'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"eca9aca485807e4ed52788ad"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog({
+			isMemorial: null
+		});
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao.es","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "100571",
+                lemmaTitle: "服务器",
+                encodeLemmaTitle: "%B7%FE%CE%F1%C6%F7",
+                adManager: {"wapRelatedBusiness":1,"discussionHelpEdit":0}
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '服务器',
+                adManager: {"wapRelatedBusiness":1,"discussionHelpEdit":0},
+                eid: null
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = r
+5a8
+equire('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('服务器') + '/' + '100571';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=100571';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用??
+5a8
+?账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('
+1c48
+对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-top: 10px;margin-bottom: 20px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=100571&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;margin-top: 10px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=100571&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    // 新打点sdk
+                    clickstream.logActEvent({
+                        page: 'lemma',
+                        act_type: 'edit-preeditCheck-editconflict',
+                        errno: 110003,
+                        nslog: 10003103
+                    });
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var ur
+b50
+l = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('100571', '服务器', '管理计算资源的计算机', '155088894', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
+    feedback({el: '#J-bk-feedback-main',
+      proData: {
+        "extend_feedback_channel": 33430
+      }
+    });
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: true,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"899",
+            subLemmaId:"899",
+            newLemmaId:"100571"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+    var isFadeIn = false,
+        isFadeOut = false;
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+    var fadeInAni, fadeOutAni;
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress)
+b50
+ {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'topbar_edit'
+                    });
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'topbar_discussion'
+                    });
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '服务器',
+            desc: "\u670d\u52a1\u5668\u662f\u8ba1\u7b97\u673a\u7684\u4e00\u79cd\uff0c\u5b83\u6bd4\u666e\u901a\u8ba1\u7b97\u673a\u8fd0\u884c\u66f4\u5feb\u3001\u8d1f\u8f7d\u66f4\u9ad8\u3001\u4ef7\u683c\u66f4\u8d35\u3002\u670d\u52a1\u5668\u5728\u7f51\u7edc\u4e2d\u4e3a\u5176\u5b83\u5ba2\u6237\u673a\uff08\u5982PC\u673a\u3001\u667a\u80fd\u624b\u673a\u3001ATM\u7b49\u7ec8\u7aef\u751a\u81f3\u662f\u706b\u8f66\u7cfb\u7edf\u7b49\u5927\u578b\u8bbe\u5907\uff09\u63d0\u4f9b\u8ba1\u7b97\u6216\u8005\u5e94\u7528\u670d\u52a1\u3002\u670d\u52a1\u5668\u5177\u6709\u9ad8\u901f\u7684CPU\u8fd0\u7b97\u80fd\u529b\u3001\u957f\u65f6\u95f4\u7684\u53ef\u9760\u8fd0\u884c\u3001\u5f3a\u5927\u7684I\\\/O\u5916\u90e8\u6570\u636e\u541e\u5410\u80fd\u529b\u4ee5\u53ca\u66f4\u597d\u7684\u6269\u5c55\u6027\u3002\u6839\u636e\u670d\u52a1\u5668\u6240\u63d0\u4f9b\u7684\u670d\u52a1\uff0c\u4e00\u822c\u6765\u8bf4\u670d\u52a1\u5668\u90fd\u5177\u5907\u627f\u62c5\u54cd\u5e94\u670d\u52a1\u8bf7\u6c42\u3001\u627f\u62c5\u670d\u52a1\u3001\u4fdd\u969c\u670d\u52a1\u7684\u80fd\u529b\u3002\u670d\u52a1\u5668\u4f5c\u4e3a\u7535\u5b50\u8bbe\u5907\uff0c\u5176\u5185\u90e8\u7684\u7ed3\u6784\u5341\u5206\u7684\u590d\u6742\uff0c\u4f46\u4e0e\u666e\u901a\u7684\u8ba1\u7b97\u673a\u5185\u90e8\u7ed3\u6784\u76f8\u5dee\u4e0d\u5927\uff0c\u5982\uff1acpu\u3001\u786c\u76d8\u30
+5a8
+01\u5185\u5b58\uff0c\u7cfb\u7edf\u3001\u7cfb\u7edf\u603b\u7ebf\u7b49\u3002",
+            pic: 'https:\/\/bkimg.cdn.bcebos.com\/pic\/5366d0160924ab18b2c6792e38fae6cd7a890bd2?x-bce-process=image\/resize,m_lfit,w_268,limit_1',
+            url: '',
+            qqPic: 'https:\/\/bkimg.cdn.bcebos.com\/pic\/5366d0160924ab18b2c6792e38fae6cd7a890bd2?x-bce-process=image\/resize,m_fill,w_550,h_550,align_0,limit_0',
+            newLemmaId: '100571',
+            lemmaTitle: '服务器'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery','wiki-common:widg
+10f8
+et/component/superLogger/superLogger.es'], function(nslog, $, superLogger) {
+        nslog().setGlobal({
+            lemmaId: "899",
+            newLemmaId: "100571",
+            subLemmaId: "899",
+            lemmaTitle: "服务器"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+        superLogger.sendPv('lemma_pc', {
+            lemmaTitle: "服务器",
+            lemmaId: "100571"
+        });
+        superLogger.sendHttpRequest({
+            name: 'contrast_lemma_pc',
+            act: 'contrast',
+            pf: 'pc'
+        });
+        // 新打点sdk
+        clickstream.logViewPage({
+            page: 'lemma',
+            lemmaTitle: "服务器",
+            lemmaId: "100571",
+            nslog: 9322
+        });
+
+        // 词条页时长
+        var startTime = Date.now();
+        document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState === 'hidden') {
+                superLogger.sendState('lemma_pc_duration', Date.now() - startTime, {
+                    lemmaTitle: "服务器",
+                    lemmaId: "100571"
+                });
+            } else {
+                startTime = Date.now();
+            }
+        });
+
+        $(window).on('beforeunload', function () {
+            // 超过一秒再打点，避免某些情况 visibilitychange 和 unload 同时触发
+            // 重复打点
+            if (Date.now() - startTime > 1000) {
+                superLogger.sendState('lemma_pc_duration', Date.now() - startTime, {
+                    lemmaTitle: "服务器",
+                    lemmaId: "100571"
+                });
+            }
+        });
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                superLogger.sendClk('lemma_link');
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                mo
+16a0
+dDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                                // 新打点sdk
+                                clickstream.logActClick({
+                                    page: 'lemma',
+                                    element: 'inlink-click',
+                                    ivision: key,
+                                    nslog: 10000004
+                                });
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                                // 新打点sdk
+                                clickstream.logActClick({
+                                    page: 'lemma',
+                                    element: 'inlink-click',
+                                    ivision: key,
+                                    nslog: 10000004
+                                });
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                    // 新打点sdk
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'module',
+                        showModules: result.join(','),
+                        nslog: 10000005
+                    });
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = {"2":{"tagId":76607,"tagName":"\u79d1\u5b66\u767e\u79d1\u4fe1\u606f\u79d1\u5b66\u5206\u7c7b"},"0":{"tagId":68041,"tagName":"\u4e2d\u56fd\u901a\u4fe1\u5b66\u4f1a"},"1":{"tagId":0,"tagName":"\u4e92\u8054\u7f51"}};
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 100571,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'rightPreciseAd',
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5,
+                            nslog: 10002201
+                        });
+                    });
+                                    } else if (res.data[1]) {
+         
+b50
+           // 缅怀类词条屏蔽词条页v百科
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'vbaike',
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1,
+                                nslog: 10002201
+                            });
+                        }
+                    });
+                                    }
+                // 缅怀类词条屏蔽广告
+                                if (res.data[9]) {
+                    require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'rightBigAd',
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9,
+                                nslog: 10002201
+                            });
+                    });
+                } else if(res.data[2]) {
+                    // 词条页轮播
+                                        require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'slide',
+                                adId: res.data[2][i].adId,
+             
+5a8
+                   adTitle: res.data[2][i].name,
+                                adPos: 2,
+                                nslog: 10002201
+                            });
+                        }
+                    });
+                                    }
+                // 词条页右上
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'topAd',
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3,
+                            nslog: 10002201
+                        });
+                    });
+                                    }
+                // 词条页悬浮
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.da
+5a8
+ta[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'rightAd',
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4,
+                            nslog: 10002201
+                        });
+                    });
+                                    }
+                                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15], {
+                            lemmaTitle: "服务器",
+                            lemmaId: "100571"
+                        });
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+               
+b50
+             element: 'banner',
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15,
+                            nslog: 10002201
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'declaration',
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16,
+                            nslog: 10002201
+                        });
+                    })
+                }
+                // 导流按钮(缅怀类词条不展现)
+                                if (res.data[27]) {
+                    require.async(['wiki-lemma:widget/promotion/leadPVBtn/leadPVBtn'], function(leadPVBtn) {
+                        leadPVBtn(res.data[27], {
+                            newLemmaId: "100571",
+                            lemmaTitle: "服务器"
+                        });
+                        nslog(10002201, location.href, {
+                            adId: res.data[27][0].adId,
+                            adTitle: res.data[27][0].name,
+                            adPos: 27
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'leadPVBtn',
+                            adId: res.data[27][0].adId,
+                            adTitle: res.data[27][0].name,
+                            adPos: 27,
+                            nslog: 10002201
+                        });
+                    })
+                }
+                            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+        
+b50
+            node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+                // 广告点击 新打点sdk
+                $('.wiki-lemma').on('click', 'a[nslog-type="10002202"]', function () {
+                    var params = JSON.parse($(this).attr('nslog-params' || {}));
+                    var element = $(this).attr('class') || 'ad';
+                    clickstream.logActClick($.extend({
+                        page: 'lemma',
+                        element: element,
+                        nslog: 10002202
+                    }, params));
+                });
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u670d\u52a1\u5668_\u767e\u5ea6\u767e\u79d1\u3011\u670d\u52a1\u5668\u662f\u8ba1\u7b97\u673a\u7684\u4e00\u79cd\uff0c\u5b83\u6bd4\u666e\u901a\u8ba1\u7b97\u673a\u8fd0\u884c\u66f4\u5feb\u3001\u8d1f\u8f7d\u66f4\u9ad8\u3001\u4ef7\u683c\u66f4\u8d35\u3002\u670d\u52a1\u5668\u5728\u7f51\u7edc\u4e2d\u4e3a\u5176\u5b83\u5ba2\u6237\u673a\uff08\u5982PC\u673a\u3001\u667a\u80fd\u624b\u673a\u3001ATM\u7b49\u7ec8\u7aef\u751a\u81f3\u662f\u706b\u8f66\u7cfb\u7edf\u7b49\u5927\u578b\u8bbe\u5907\uff09\u63d0\u4f9b\u8ba1\u7b97\u6216\u8005\u5e94\u7528\u670d\u52a1\u3002\u670d\u52a1\u5668\u5177\u6709\u9ad8\u901f\u7684CPU\u8fd0\u7b97\u80fd\u529b\u3001\u957f\u65f6\u95f4\u7684\u53ef\u9760\u8fd0\u884c\u3001\u5f3a\u5927\u7684I\/O\u5916\u90e8\u6570\u636e\u541e\u5410\u80fd\u529b\u4ee5\u53ca\u66f4\u597d\u7684\u6269\u5c55\u6027\u3002\u6839\u636e\u670d\u52a1\u5668\u6240\u63d0\u4f9b\u7684\u670d\u52a1\uff0c\u4e00\u822c\u676
+677
+5\u8bf4\u670d\u52a1\u5668\u90fd\u5177\u5907\u627f\u62c5\u54cd\u5e94\u670d\u52a1\u8bf7\u6c42\u3001\u627f\u62c5\u670d\u52a1\u3001\u4fdd\u969c\u670d\u52a1\u7684\u80fd\u529b\u3002\u670d\u52a1\u5668\u4f5c\u4e3a\u7535\u5b50\u8bbe\u5907\uff0c\u5176\u5185\u90e8\u7684\u7ed3\u6784\u5341\u5206\u7684\u590d\u6742\uff0c\u4f46\u4e0e\u666e\u901a\u7684\u8ba1\u7b97\u673a\u5185\u90e8\u7ed3\u6784\u76f8\u5dee\u4e0d\u5927\uff0c\u5982\uff1acpu\u3001\u786c\u76d8\u3001\u5185\u5b58\uff0c\u7cfb\u7edf\u3001\u7cfb\u7edf\u603b\u7ebf\u7b49\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E6%9C%8D%E5%8A%A1%E5%99%A8\/100571',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E6%9C%8D%E5%8A%A1%E5%99%A8' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+    if (!$('.reference-title').length) {
+        $('.main-content').addClass('main-content-margin');
+    }
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+</html>
+
+0
+

@@ -14,7 +14,7 @@ void* thread_manager_jobs(void *arg)
 		busy = ptr->thread_busy;
 		cur = ptr->queue_cur;
 		pthread_mutex_unlock(&ptr->queuelock);
-		if((alive - busy <= cur || busy / alive * 100 >= 70) && alive * ptr->thread_min <= ptr->thread_max)
+		if((alive - busy <= cur || busy / alive * 100 >= 70) && alive + ptr->thread_min <= ptr->thread_max)
 		{
 			for(flags =0, add=0; flags<ptr->thread_max && add<ptr->thread_min; flags++)
 			{

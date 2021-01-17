@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+for((i=0;i<10;i++))
+{
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+	gnome-terminal   -- ./client
+}

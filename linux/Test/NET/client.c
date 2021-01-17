@@ -7,7 +7,6 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <fcntl.h>
-#define MESSAGE "我就一直发送消息"
 
 int main(void)
 {
@@ -18,17 +17,19 @@ int main(void)
 	inet_pton(AF_INET, "192.168.102.100", &serveraddr.sin_addr.s_addr);
 
 	int clientfd = socket(AF_INET, SOCK_STREAM, 0);
-
+	int len;
 	char buffer[1024] = {0};
 	if( (connect(clientfd, (struct sockaddr *)&serveraddr, sizeof(serveraddr))) == 0)
 	{ 
-		while(1)
-		{
-			if(recv(clientfd, buffer, sizeof(buffer), 0) >0)
-				printf("%s\n", buffer);
-			else
-				break;
-		}
+		while(fgets(buffer, sizeof(buffer), stdin) != NULL)
+        {
+            //1. 发送请求
+            send(clientfd, buffer, strlen(buffer), 0);
+            //2. 获取响应
+            len = recv(clientfd, buffer, sizeof(buffer), 0);
+            //3. 显示结果
+            printf("client recv response msg:%s\n", buffer);
+        }
 	}
 	return 0;
 }

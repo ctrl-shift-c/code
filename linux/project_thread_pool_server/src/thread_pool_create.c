@@ -29,6 +29,8 @@ thread_pool_t* thread_pool_create(int max, int min, int quemax)
 		STRERROR("malloc customer_id call faild", 0);
 		return NULL;
 	}
+	
+
 	bzero(ptr->customer_id, sizeof(pthread_t)*max);
 	if((ptr->producer_id = (pthread_t *)malloc(sizeof(pthread_t)*10)) == NULL)
 	{

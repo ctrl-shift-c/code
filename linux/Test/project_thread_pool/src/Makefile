@@ -1,0 +1,21 @@
+.PHONY: OUTPUT CLEAN
+CC=gcc
+TARGET=epoll_thread_pool_server
+INCLUDE=../include
+LIBRARY_NAME_1=g
+LIBRARY_NAME_2=pthread
+LIBRARY_NAME=-$(LIBRARY_NAME_1) -l$(LIBRARY_NAME_2)
+CFLAGS=-I$(INCLUDE) -Wall -c
+LDFLAGS=$(LIBRARY_NAME)
+SRCFILENAME=$(wildcard *.c)
+DESFILENAME=$(patsubst %.c, %.o, $(SRCFILENAME))
+
+$(TARGET):$(DESFILENAME)
+	$(CC) $^ $(LDFLAGS) -o $@
+%.o:%.c
+	$(CC) $(CFLAGS) $(LDFLAGS) $<
+OUTPUT:
+	@echo $(SRCFILENAME)
+	@echo $(DESFILENAME)
+CLEAN:
+	rm $(DESFILENAME) $(TARGET) 
